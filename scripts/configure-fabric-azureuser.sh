@@ -22,8 +22,8 @@ AZURE_PREFIX=${13}
 FABRIC_VERSION=x86_64-1.1.0
 
 # TODO: extract those from the configuration
-PEER_ORG_DOMAIN="org1.fabienpe.com"
-ORDERER_ORG_DOMAIN="fabienpe.com"
+PEER_ORG_DOMAIN="org1.trustt.com"
+ORDERER_ORG_DOMAIN="trustt.com"
 
 echo "Configuring node:"
 echo "  NODE_TYPE="${NODE_TYPE}
