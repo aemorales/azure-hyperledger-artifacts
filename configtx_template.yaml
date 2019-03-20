@@ -46,7 +46,7 @@ Organizations:
         ID: OrdererMSP
 
         # MSPDir is the filesystem path which contains the MSP configuration
-        MSPDir: crypto-config/ordererOrganizations/fabienpe.com/msp
+        MSPDir: crypto-config/ordererOrganizations/trustt.com/msp
 
         # AdminPrincipal dictates the type of principal used for an
         # organization's Admins policy. Today, only the values of Role.ADMIN and
@@ -63,7 +63,7 @@ Organizations:
         ID: Org1MSP
 
         # MSPDir is the filesystem path which contains the MSP configuration
-        MSPDir: crypto-config/peerOrganizations/org1.fabienpe.com/msp
+        MSPDir: crypto-config/peerOrganizations/org1.trustt.com/msp
 
         # AdminPrincipal dictates the type of principal used for an
         # organization's Admins policy. Today, only the values of Role.ADMIN and
